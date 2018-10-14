@@ -1,0 +1,6 @@
+br/senac/gerenciadordeprodutos/model/Produto.class
+br/senac/gerenciadordeprodutos/controller/Inserir.class
+br/senac/gerenciadordeprodutos/service/ProdutoService.class
+br/senac/gerenciadordeprodutos/dao/ProdutoDAO.class
+br/senac/gerenciadordeprodutos/util/ConnectionUtils.class
+br/senac/gerenciadordeprodutos/controller/Listar.class

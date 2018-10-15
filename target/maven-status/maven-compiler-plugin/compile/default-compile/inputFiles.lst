@@ -1,6 +1,6 @@
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/util/ConnectionUtils.java
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/service/ProdutoService.java
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/controller/Listar.java
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/model/Produto.java
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/dao/ProdutoDAO.java
-/home/ezau/Desktop/gerenciadorDeProdutos/src/main/java/br/senac/gerenciadordeprodutos/controller/Inserir.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/controller/Inserir.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/model/Produto.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/controller/Listar.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/util/ConnectionUtils.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/dao/ProdutoDAO.java
+/home/ezau/Desktop/PI3_ADO/src/main/java/br/senac/gerenciadordeprodutos/service/ProdutoService.java

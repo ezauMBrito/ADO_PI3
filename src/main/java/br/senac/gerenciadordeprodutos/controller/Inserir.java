@@ -63,10 +63,10 @@ public class Inserir extends HttpServlet {
             BigDecimal compra = new BigDecimal(request.getParameter("compra"));
             BigDecimal venda = new BigDecimal(request.getParameter("venda"));
             int quantidade = Integer.parseInt(request.getParameter("quantidade"));
-            String[] categoriasStr = request.getParameterValues("categorias");
-            int[] categorias = new int[categoriasStr.length];
-            for (int i = 0; i < categoriasStr.length; i++) {
-                categorias[i] = Integer.parseInt(categoriasStr[i]);
+            String[] strCategorias = request.getParameterValues("categorias");
+            int[] categorias = new int[strCategorias.length];
+            for (int i = 0; i < strCategorias.length; i++) {
+                categorias[i] = Integer.parseInt(strCategorias[i]);
             }
             p.setNome(nome);
             p.setDescricao(descricao);
